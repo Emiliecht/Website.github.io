@@ -1,0 +1,31 @@
+.banner {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  padding:50px 0;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  opacity: 0.85;
+
+}.banner .container {
+  text-align: left; 
+  margin-left: 250px;
+}
+
+.banner .container .btn {
+  margin-left: 0px; 
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.banner p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-align: left;
+}

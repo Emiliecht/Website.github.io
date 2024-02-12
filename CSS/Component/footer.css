@@ -1,0 +1,27 @@
+.footer {
+  background-color: rgb(233, 206, 180);
+  color: white;
+  padding: 20px 0;
+  margin: 0;
+  text-align: center;
+}
+
+.social-icon {
+  display: inline-block;
+  margin: 0 10px;
+  overflow: hidden;
+}
+
+.social-icon img {
+  height: 40px;
+  width: auto;
+}
+
+.social-icon:hover img {
+  filter: brightness(0.8);
+}
+
+.footer p {
+  font-size: 0.8em;
+  margin-top: 20px;
+}
